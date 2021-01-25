@@ -26,9 +26,7 @@ Anyone looking to explore and get a deeper look into Toronto's restaurants can u
 
 ### Topic modeling
 
-Topics:
-
-
+![](ReadMe_Images/Topics.png)
 
 * **Topic0 AKA Topic1** - Service
 * **Topic1 AKA Topic1** - Food
@@ -36,6 +34,14 @@ Topics:
 * **Topic3 AKA Topic1** - Food
 
 All topics generated represented the reviews they were asigned to by proportions greater then >= 50% 67% of the time.
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](ReadMe_Images/T1.png)  |  ![](ReadMe_Images/T2.png)
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](ReadMe_Images/T3.png)  |  ![](ReadMe_Images/T4.png)
 
 ## Technologies 
 
