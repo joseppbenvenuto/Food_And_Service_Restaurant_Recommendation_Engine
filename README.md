@@ -63,7 +63,7 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
 **Food Standards test**:
 
   * RMSE - 0.89
-  * MAE - 0.79
+  * MAE - 0.69
   
 ### Dashboard
 
