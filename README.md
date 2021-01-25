@@ -4,7 +4,7 @@
 
 The analysis explored the Yelp business reviews data set https://www.yelp.com/dataset. 
 
-Filtering for only restaurants and culinary businesses in Toronto, topic modeling was used to cluster data and mine for service-standard reviews. Once the clusters had been generated, single value decomposition (SVD) was used to create two recommendation engines. One engine for all standard-based reviews (service and food) and another for food standard-based reviews. 
+Filtering for only restaurants and culinary businesses in Toronto, topic modeling was used to cluster data and mine for service-standard reviews. Once the clusters had been generated, singular value decomposition (SVD) was used to create two recommendation engines. One engine for all standard-based reviews (service and food) and another for food standard-based reviews. 
 
 Having completed the above, a recommendation dashboard app using plotly and dash was created. The dashboard allows the user to have the choice if he/she wants to be recommended restaurants basis all standards or simply basis food standards. 
 
@@ -14,7 +14,7 @@ Anyone looking to explore and get a deeper look into Toronto's restaurants can u
 
 1) Descriptive Statistics - used for preliminary data exploration.
 2) Topic Modeling - Used to cluster reviews by their context
-3) Single Value Decomposition (SVD) - used to create 2 restaurant recommendation engines basis all standards or food standards 
+3) singular Value Decomposition (SVD) - used to create 2 restaurant recommendation engines basis all standards or food standards 
 
 ## Results 
 
@@ -39,9 +39,16 @@ Topic0 AKA Topic1                     |  Topic1 AKA Topic2
 :------------------------------------:|:------------------------------------:
 ![](ReadMe_Images/T1.png)             |  ![](ReadMe_Images/T2.png)
 
-Topic2 AKA Topic3                      |  Topic3 AKA Topic4
-:-------------------------------------:|:------------------------------------:
-![](ReadMe_Images/T3.png)              |  ![](ReadMe_Images/T4.png)
+Topic2 AKA Topic3                     |  Topic3 AKA Topic4
+:------------------------------------:|:------------------------------------:
+![](ReadMe_Images/T3.png)             |  ![](ReadMe_Images/T4.png)
+
+### singular Value Decomposition
+
+**All Standards train**:              |
+*                                     |
+:------------------------------------:|:------------------------------------:
+**All Standards test**:               |
 
 ## Technologies 
 
