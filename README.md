@@ -33,7 +33,7 @@ Anyone looking to explore and get a deeper look into Toronto's restaurants can u
 * **Topic2 AKA Topic1** - Food
 * **Topic3 AKA Topic1** - Food
 
-All topics generated represented the reviews they were asigned to by proportions greater then >= 50% 67% of the time.
+All topics generated represented the reviews they were assigned to by proportions greater than >= 50% 67% of the time.
 
 Topic0 AKA Topic1                     |  Topic1 AKA Topic2
 :------------------------------------:|:------------------------------------:
@@ -78,25 +78,16 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
 
 ## Order of Analysis
 
-1) **NHL_1983_2020_Multiple_Linear_Regression_EDA.ipynb**
-2) **NHL_1983_2020_Multiple_Linear_Regression.ipynb**
-3) **NHL_1983_2020_Logistic_Regression_EDA.ipynb**
-4) **NHL_1983_2020_Logistic_Regression.ipynb**
-5) **NHL_1983_2020_Feature_A-B_Tests.ipynb**
+1) **Topic_Modeling.ipynb**
+2) **Singular_Value_Decomposition_Recommendation_Engine.ipynb**
+3) **Singular_Value_Decomposition_Recommendation_Engine_Food.ipynb**
+4) **Recommendation_Dashboard.ipynb**
 
 ## Directory Files
 
-1) **NHL_API.ipynb** - NHL data base API.
-2) **Preprocessing_Functions.ipynb** - Preprocessing functions.
-3) **Regression_Metrics_Function.ipynb** - Regression evaluation functions.
-4) **AUC_CAP_Functions.ipynb** - Classification evaluation functions.
-5) **Stats_Functions.ipynb** - Descriptive and inferential stats functions.
-6) **CHAID_Tree_Plots** - CHAID tree algorithm used to explore data for derived variables.
-7) **NHL_1983_2020_Multiple_Linear_Regression_EDA.ipynb** - Multiple linear regression EDA, feature enginearing, and feature selection.
-8) **NHL_1983_2020_Multiple_Linear_Regression.ipynb** - Multiple linear regression model building, feature selection, preprocessing, evaluation, and interpretation.
-9) **NHL_Season_Wins_Linear_Regression_Model.pkl** - Saved multiple linear regression model.
-10) **NHL_1983_2020_Logistic_Regression_EDA.ipynb** - Logistic regression EDA, feature enginearing, and feature selection.
-11) **NHL_1983_2020_Logistic_Regression.ipynb** - Logistic regression model building, feature selection, preprocessing, evaluation, and interpretation.
-12) **NHL_Playoffs_Logistic_Regression_Model.pkl** - Saved Logistic regression model.
-13) **NHL_1983_2020_Feature_A-B_Tests.ipynb** - A/B testing on predictor features between successful and unsuccessful playoff outcomes.
-
+1) **Data_Preprocessing.ipynb** - Cleaning and perprocessing large data using pyspark.
+2) **Recommendation_Dashboard_Data_Prep.ipynb** - Preprocessing data to accomodate the recommendation dashboard.
+3) **Topic_Modeling.ipynb** - Topic modeling dashboard.
+4) **Singular_Value_Decomposition_Recommendation_Engine.ipynb** - SVD model for all review standards.
+5) **Singular_Value_Decomposition_Recommendation_Engine_Food.ipynb** - SVD model for food review standards.
+6) **Recommendation_Dashboard.ipynb** - Plotly and dash code for the recommendation dashboard.
