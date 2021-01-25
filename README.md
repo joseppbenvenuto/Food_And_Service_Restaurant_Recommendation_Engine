@@ -35,13 +35,13 @@ Anyone looking to explore and get a deeper look into Toronto's restaurants can u
 
 All topics generated represented the reviews they were asigned to by proportions greater then >= 50% 67% of the time.
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](ReadMe_Images/T1.png)  |  ![](ReadMe_Images/T2.png)
+Topic0 AKA Topic1                     |  Topic1 AKA Topic2
+:------------------------------------:|:------------------------------------:
+![](ReadMe_Images/T1.png)             |  ![](ReadMe_Images/T2.png)
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](ReadMe_Images/T3.png)  |  ![](ReadMe_Images/T4.png)
+Topic2 AKA Topic3                     |  Topic3 AKA Topic4
+:------------------------------------:|:------------------------------------:
+![](ReadMe_Images/T3.png)             |  ![](ReadMe_Images/T4.png)
 
 ## Technologies 
 
