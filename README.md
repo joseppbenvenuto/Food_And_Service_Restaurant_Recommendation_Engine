@@ -43,7 +43,7 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
 :------------------------------------:|:------------------------------------:
 ![](ReadMe_Images/T3.png)             |  ![](ReadMe_Images/T4.png)
 
-### singular Value Decomposition
+### Singular Value Decomposition
 
 **All Standards train**:
 
