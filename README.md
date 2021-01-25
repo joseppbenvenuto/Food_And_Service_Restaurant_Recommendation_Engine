@@ -39,9 +39,9 @@ Topic0 AKA Topic1                     |  Topic1 AKA Topic2
 :------------------------------------:|:------------------------------------:
 ![](ReadMe_Images/T1.png)             |  ![](ReadMe_Images/T2.png)
 
-Topic2 AKA Topic3                     |  Topic3 AKA Topic4
-:------------------------------------:|:------------------------------------:
-![](ReadMe_Images/T3.png)             |  ![](ReadMe_Images/T4.png)
+Topic2 AKA Topic3                      |  Topic3 AKA Topic4
+:-------------------------------------:|:------------------------------------:
+![](ReadMe_Images/T3.png)              |  ![](ReadMe_Images/T4.png)
 
 ## Technologies 
 
