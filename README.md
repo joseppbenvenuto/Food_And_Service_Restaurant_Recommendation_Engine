@@ -45,17 +45,32 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
 
 ### singular Value Decomposition
 
-**All Standards train**:              |
-*                                     |
-:------------------------------------:|:------------------------------------:
-**All Standards test**:               |
+**All Standards train**:
+
+  * RMSE - 0.94
+  * MAE - 0.73
+
+**All Standards test**:
+
+  * RMSE - 0.96
+  * MAE - 0.75
+  
+ **Food Standards train**:
+
+  * RMSE - 0.86
+  * MAE -  0.67
+
+**Food Standards test**:
+
+  * RMSE - 0.89
+  * MAE - 0.79
 
 ## Technologies 
 
 1) Python 
-2) R
-3) Jupyter Notebook
-4) Anaconda Environment
+2) Jupyter Notebook
+3) Anaconda Environment
+4) Pyspark
 
 ## Order of Analysis
 
