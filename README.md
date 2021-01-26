@@ -71,8 +71,8 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
 
 https://food-dash-app.herokuapp.com/
 
-**User Name** - data
-**Password** - analyst
+* **User Name** - data
+* **Password** - analyst
 
 ## Technologies 
 
