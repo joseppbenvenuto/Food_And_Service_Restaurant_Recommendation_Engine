@@ -14,7 +14,7 @@ Anyone looking to explore and get a deeper look into Toronto's restaurants can u
 
 1) Descriptive Statistics - used for preliminary data exploration.
 2) Topic Modeling - Used to cluster reviews by their context
-3) singular Value Decomposition (SVD) - used to create 2 restaurant recommendation engines basis all standards or food standards 
+3) Singular Value Decomposition (SVD) - used to create 2 restaurant recommendation engines basis all standards or food standards 
 
 ## Results 
 
