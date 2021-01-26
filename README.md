@@ -67,7 +67,7 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
   
 ### Dashboard
 
-![](ReadMe_Images/Dash.png)
+![](ReadMe_Images/Dash1.png)
 
 ## Technologies 
 
