@@ -69,6 +69,11 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
 
 ![](ReadMe_Images/Dash1.png)
 
+https://food-dash-app.herokuapp.com/
+
+**User Name** - data
+**Password** - analyst
+
 ## Technologies 
 
 1) Python 
