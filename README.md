@@ -6,7 +6,7 @@ The analysis explored the Yelp business reviews data set https://www.yelp.com/da
 
 Filtering for only restaurants and culinary businesses in Toronto, topic modeling was used to cluster data and mine for service-standard reviews. Once the clusters had been generated, singular value decomposition (SVD) was used to create two recommendation engines. One engine for all standard-based reviews (service and food) and another for food standard-based reviews. 
 
-Having completed the above, a recommendation dashboard app using plotly and dash was created and deployed to Heroku. The dashboard allows the user to have the choice if he/she wants to be recommended restaurants basis all standards or simply basis food standards. The recommendation dashboard app returns 10 recommendations.
+Having completed the above, a recommendation dashboard app using plotly and dash was created and deployed to Heroku https://food-dash-app.herokuapp.com/. The dashboard allows the user to have the choice if he/she wants to be recommended restaurants basis all standards or simply basis food standards. The recommendation dashboard app returns 10 recommendations.
 
 Anyone looking to explore and get a deeper look into Toronto's restaurants can use this app.
 
