@@ -4,9 +4,16 @@
 
 The analysis explored the Yelp business reviews data set https://www.yelp.com/dataset. 
 
-Filtering for only restaurants and culinary businesses in Toronto, topic modeling was used to cluster data and mine for service-standard reviews. Once the clusters had been generated, singular value decomposition (SVD) was used to create representative latent features and used cosine similarity to make two recommendation engines. One engine for all standard-based reviews (service and food) and another for food standard-based reviews. 
+Filtering for only restaurants and culinary businesses in Toronto, topic modeling was used to cluster data and mine for service-standard reviews. Once the clusters had been generated, two recommendations were created using singular value decomposition (SVD) to create representative latent features of the restaurants, and with the latent features, cosine similarity was used to generate predictions given user restaurant inputs and ratings. 
 
-Having completed the above, a recommendation dashboard app using plotly and dash was created and deployed to Heroku https://food-dash-app.herokuapp.com/. The dashboard allows the user to have the choice if he/she wants to be recommended restaurants basis all standards or simply basis food standards. The recommendation dashboard app returns 10 recommendations.
+The two recommendation engines can be defined as the following:
+
+1) Recommendation engine for all-standard based reviews and ratings (service and food) - all-standard topic model clusters included
+2) Recommendation engine for food-standard based reviews and ratings - service-standard topic model clusters reviews not included
+
+**Note** - The analysis assumed the star ratings were due to the context of the review. For example, if the content of the review was about food and recieved a five star rating, the high rating, for the most part, would be due to the quality of restaurant's food.
+
+Having completed the above, a recommendation dashboard app using plotly and dash was created and deployed to Heroku https://food-dash-app.herokuapp.com/. The dashboard allows the user to have the choice if he/she wants to be recommended restaurants basis all-standards or simply basis food-standards. The recommendation dashboard app returns 10 recommendations.
 
 Anyone looking to explore and get a deeper look into Toronto's restaurants can use this app.
 
@@ -45,12 +52,12 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
 
 ### Singular Value Decomposition
 
-**All Standards test**:
+**All-Standards test**:
 
   * RMSE - 0.96
   * MAE - 0.75
 
-**Food Standards test**:
+**Food-Standards test**:
 
   * RMSE - 0.89
   * MAE - 0.69
