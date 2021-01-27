@@ -21,10 +21,10 @@ Anyone looking to explore and get a deeper look into Toronto's restaurants can u
 
 ## Methods Used
 
-1) Descriptive Statistics - used for preliminary data exploration
-2) Topic Modeling - Used to cluster reviews by their context
-3) Singular Value Decomposition (SVD) - used to create 2 restaurant recommendation engines basis all standards or food standards 
-4) Cosine Distances - used to measure similarities between latent features of restraurants
+1) Descriptive Statistics - used for preliminary data exploration.
+2) Topic Modeling - Used to cluster reviews by their context.
+3) Singular Value Decomposition (SVD) - used to create 2 restaurant recommendation engines basis all standards or food standards. 
+4) Cosine Distances - used to measure similarities between latent features of restraurants.
 
 ## Results 
 
