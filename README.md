@@ -9,7 +9,7 @@ Filtering for only restaurants and culinary businesses in Toronto, topic modelin
 The two recommendation engines can be defined as the following:
 
 1) Recommendation engine for all-standard based reviews and ratings (service and food)<br>
- &nbsp;&nbsp; * all-standard topic model clusters included
+ * &nbsp;&nbsp;  all-standard topic model clusters included
 2) Recommendation engine for food-standard based reviews and ratings<br>
  &nbsp;&nbsp; * service-standard topic model clusters reviews not included
 
