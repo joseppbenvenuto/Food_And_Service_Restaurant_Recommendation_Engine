@@ -45,20 +45,10 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
 
 ### Singular Value Decomposition
 
-**All Standards train**:
-
-  * RMSE - 0.94
-  * MAE - 0.73
-
 **All Standards test**:
 
   * RMSE - 0.96
   * MAE - 0.75
-  
- **Food Standards train**:
-
-  * RMSE - 0.86
-  * MAE -  0.67
 
 **Food Standards test**:
 
