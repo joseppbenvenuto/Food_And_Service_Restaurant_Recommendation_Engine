@@ -55,12 +55,12 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
 
 ### Singular Value Decomposition
 
-**All-Standards test**:
+**All-Standards test results**:
 
   * RMSE - 0.96
   * MAE - 0.75
 
-**Food-Standards test**:
+**Food-Standards test results**:
 
   * RMSE - 0.89
   * MAE - 0.69
