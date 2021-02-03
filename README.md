@@ -33,6 +33,7 @@ Anyone looking to explore and get a deeper look into Toronto's restaurants can u
 * **number of businesses** - 911
 * **number of users** - 4,045
 * **number of reviews** - 100,763
+* **review dates** - 2008 - 2019 
 
 ### Topic modeling
 
