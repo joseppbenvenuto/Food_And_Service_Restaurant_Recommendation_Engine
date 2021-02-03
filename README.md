@@ -97,3 +97,5 @@ https://food-dash-app.herokuapp.com/
 4) **Singular_Value_Decomposition_Recommendation_Engine.ipynb** - SVD model for all review standards.
 5) **Singular_Value_Decomposition_Recommendation_Engine_Food.ipynb** - SVD model for food review standards.
 6) **Recommendation_Dashboard.ipynb** - Plotly and dash code for the recommendation dashboard.
+7) **SVD_Model.pkl** - All-standard SVD model.
+8) **SVD_Model_Food.pkl** - Food-standard SVD model.
