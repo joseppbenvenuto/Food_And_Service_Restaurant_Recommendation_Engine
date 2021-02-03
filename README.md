@@ -15,7 +15,7 @@ The two recommendation engines can be defined as the following:
 
 **Note** - The analysis assumed the star ratings were due to the context of the review. For example, if the content of the review was about food and received a five-star rating, the high rating, for the most part, would be due to the quality of the restaurant's food.
 
-Having completed the above, a recommendation dashboard app using plotly and dash was created and deployed to Heroku https://food-dash-app.herokuapp.com/ (**Username**: data, **Password**: analyst, **Note** - the dashboard takes a few seconds to load and is optomized for a 13-inch desktop). The dashboard allows the user to have the choice if he/she wants to be recommended restaurants basis all-standards or simply basis food-standards. The recommendation dashboard app returns 10 recommendations.
+Having completed the above, a recommendation dashboard app using plotly and dash was created and deployed to Heroku https://food-dash-app.herokuapp.com/ (**Username**: data, **Password**: analyst, **Note** - the dashboard takes a few seconds to load and is optimized for a 13-inch desktop). The dashboard allows the user to have the choice if he/she wants to be recommended restaurants basis all-standards or simply basis food-standards. The recommendation dashboard app returns 10 recommendations.
 
 Anyone looking to explore and get a deeper look into Toronto's restaurants can use this app.
 
@@ -90,7 +90,7 @@ https://food-dash-app.herokuapp.com/
 
 ## Directory Files
 
-1) **Data_Preprocessing.ipynb** - Cleaning and perprocessing large data using pyspark.
+1) **Data_Preprocessing.ipynb** - Cleaning and preprocessing large data using pyspark.
 2) **Recommendation_Dashboard_Data_Prep.ipynb** - Preprocessing data to accomodate the recommendation dashboard.
 3) **Topic_Modeling.ipynb** - Topic modeling dashboard.
 4) **Singular_Value_Decomposition_Recommendation_Engine.ipynb** - SVD model for all review standards.
