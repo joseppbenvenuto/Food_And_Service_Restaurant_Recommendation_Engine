@@ -87,7 +87,7 @@ https://food-dash-app.herokuapp.com/
 1) **Topic_Modeling.ipynb**
 2) **Singular_Value_Decomposition_Recommendation_Engine.ipynb**
 3) **Singular_Value_Decomposition_Recommendation_Engine_Food.ipynb**
-4) **Recommendation_Dashboard.ipynb**
+4) **Plotly_Dash_Recommendation_Dashboard.ipynb**
 
 ## Directory Files
 
@@ -96,6 +96,6 @@ https://food-dash-app.herokuapp.com/
 3) **Topic_Modeling.ipynb** - Topic modeling dashboard.
 4) **Singular_Value_Decomposition_Recommendation_Engine.ipynb** - SVD model for all review standards.
 5) **Singular_Value_Decomposition_Recommendation_Engine_Food.ipynb** - SVD model for food review standards.
-6) **Recommendation_Dashboard.ipynb** - Plotly and dash code for the recommendation dashboard.
+6) **Plotly_Dash_Recommendation_Dashboard.ipynb** - Plotly and dash code for the recommendation dashboard.
 7) **SVD_Model.pkl** - All-standard SVD model.
 8) **SVD_Model_Food.pkl** - Food-standard SVD model.
