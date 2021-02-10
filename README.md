@@ -1,4 +1,4 @@
-# Toronto_Restaurant_Food_and_Service_Recommendation_Engine
+# Toronto Restaurant Food and Service Recommendation Engine
 
 ## Project Description
 
