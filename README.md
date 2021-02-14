@@ -15,7 +15,7 @@ The two recommendation engines can be defined as the following:
 
 **Note** - The analysis assumed the star ratings were due to the context of the review. For example, if the content of the review was about food and received a five-star rating, the high rating, for the most part, would be due to the quality of the restaurant's food.
 
-Having completed the above, a recommendation dashboard app using plotly and dash was created and deployed to Heroku https://food-dash-app.herokuapp.com/ (**Username**: data, **Password**: analyst). The dashboard allows the user to have the choice if he/she wants to be recommended restaurants basis all-standards or simply basis food-standards. The recommendation dashboard app returns 10 recommendations.
+Having completed the above, a recommendation dashboard app using plotly and dash was created and deployed to Heroku https://food-dash-app.herokuapp.com/ (**Username**: data, **Password**: analyst, **Note**: the app takes a few seconds to load). The dashboard allows the user to have the choice if he/she wants to be recommended restaurants basis all-standards or simply basis food-standards. The recommendation dashboard app returns 10 recommendations.
 
 Anyone looking to explore and get a deeper look into Toronto's restaurants can use this app.
 
