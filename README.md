@@ -40,9 +40,9 @@ Anyone looking to explore and get a deeper look into Toronto's restaurants can u
 ![](ReadMe_Images/Topics.png)
 
 * **Topic0 AKA Topic1** - Service
-* **Topic1 AKA Topic1** - Food
-* **Topic2 AKA Topic1** - Food
-* **Topic3 AKA Topic1** - Food
+* **Topic1 AKA Topic2** - Food
+* **Topic2 AKA Topic3** - Food
+* **Topic3 AKA Topic4** - Food
 
 All topics generated represented the reviews they were assigned to by proportions greater than >= 50% 67% of the time.
 
