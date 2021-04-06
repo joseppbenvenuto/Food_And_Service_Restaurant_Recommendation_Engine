@@ -66,7 +66,7 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
   * RMSE - 0.89
   * MAE - 0.69
   
-### Dashboard
+## Dashboard
 
 ![](ReadMe_Images/Dash1.png)
 
