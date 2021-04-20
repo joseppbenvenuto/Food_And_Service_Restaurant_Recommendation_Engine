@@ -68,6 +68,8 @@ Topic2 AKA Topic3                     |  Topic3 AKA Topic4
   
 ## Dashboard
 
+<p><strong>App User Name:</strong> data<br> <strong>App Password:</strong> analyst <br><strong>Note -</strong> the dashboard takes a few seconds to load</p>
+
 * Deployed to Heroku here: https://food-dash-app.herokuapp.com/
 ![](ReadMe_Images/Dash1.png)
 
