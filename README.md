@@ -1,7 +1,5 @@
 # Toronto Restaurant Recommendation Engine
 
-## Project Description
-
 The analysis explored the Yelp business reviews data set (url: https://www.yelp.com/dataset).
 
 Filtering for only restaurants and culinary businesses in Toronto, topic modeling was used to cluster data and mine for service-standard reviews. Once the clusters had been generated, two recommendations were created using singular value decomposition (SVD) to create representative latent features of the restaurants, and with the latent features, cosine similarity was used to generate predictions given user restaurant inputs and ratings. 
